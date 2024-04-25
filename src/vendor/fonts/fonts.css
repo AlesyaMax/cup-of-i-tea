@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'Grandstander';
+  src: url('Grandstander-Black.woff2') format('woff2'),
+      url('Grandstander-Black.woff') format('woff'),
+      url('Grandstander-Black.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Grandstander';
+  src: url('Grandstander-Regular.woff2') format('woff2'),
+      url('Grandstander-Regular.woff') format('woff'),
+      url('Grandstander-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
